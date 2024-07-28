@@ -5,7 +5,7 @@ I'm Samarth, a 3rd-year Computer Science student at IIIT-HYDERABAD. I am passion
 
 ### 🛠 Skills
 - **Languages**: C++, Python, C,JavaScript
-- **Frameworks**: React, Node.js
+- **Frameworks**: React, Node.js ,Cron
 - **Databases**: MySQL, MongoDB
 
 ### 💼 Current Projects
