@@ -11,6 +11,7 @@ I'm Samarth, a 3rd-year Computer Science student at IIIT-HYDERABAD. I am passion
 ### 💼 Current Projects
 - **[Global Dietary Trend Visualizer](https://samarth23-sudo.github.io/Global_Dietary_Patterns/)**: A project to visualize global dietary patterns using data visualization techniques.
 - **[Social Media Automation Project](https://github.com/Samarth23-sudo/Social_Media_Automation)**: A project to automate various social media tasks, enhancing productivity and engagement on Instagram.
+- **[TinyShell](https://github.com/Samarth23-sudo/TinyShell)**:A minimalist Linux terminal simulator implemented in C
 
 
 ### 🎓 Education
